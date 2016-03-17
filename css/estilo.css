@@ -1,0 +1,246 @@
+#incluiAviso{display:none;margin:10px 0;}
+#incluiAviso .form-group{margin:10px 0 0 0;}
+#incluiCurso{display:none;margin:10px 0;}
+#incluiCurso .form-group{margin:10px 0 0 0;}
+#duplicarCurso{display:none;margin:10px 0;}
+#duplicarCurso .form-group{margin:10px 0 0 0;}
+#uploadAnexo{display:none;margin:10px 0;}
+#tx_descricao_aviso{width:98%;}
+#cd_curso{margin:0px 0;}
+#cd_curso_incluir{margin:0px 0;}
+#botao_acao{margin:10px 0;}
+#aguarde{display:none;text-align:center;}
+#aguarde-questao{opacity: 0.5;
+width:50px;height:50px;
+    background: none repeat scroll 0% 0% #FFF;
+	margin:50px 0 0 0;
+	text-align:center;
+	z-index:9999;}
+.esconde{display:none;text-align:center;}
+.mostra{display:block;text-align:center;}
+.inibe{display:none;}
+.exibe{display:block;}
+#listaAnexos{display:none;margin:10px 0;}
+#uploadAnexo1{display:none;margin:10px 0;}
+#updateUpload{display:none;}
+#selectPub{display:none;}
+.thumbnail{margin:20px 0 -10px 0;}
+.modal-backdrop.fade.in {
+    opacity: 0.1;
+    background: none repeat scroll 0% 0% #FFF;
+}
+
+.btn-xs1{
+padding: 4px 10px 5px;
+font-size: 13px;
+line-height: 1.5;
+width: 100%;
+}
+.box2{border:1px solid #695025;}
+.date-picker{border:1px solid #695025;}
+#tx_descricao{border:1px solid #695025;}
+#tx_programa{border:1px solid #695025;}
+#summernote_1{border:1px solid #695025;}
+.note-popover{border:1px solid #695025;}
+.control-label {
+    margin-bottom: 0px;
+    vertical-align: middle;
+    margin-left: 15px;
+}
+#st_modo_curso{border:1px solid #695025;}
+#imagem1{border: 1px solid #695025;margin: 10px 0 0 -25px;}
+
+#dt_data_aviso{border:1px solid #695025;}
+#tx_titulo_aviso{border:1px solid #695025;}
+#tx_descricao_aviso{border:1px solid #695025;}
+#cd_curso1{border:1px solid #695025;}
+#ds_ano_new{width:60px;}
+#ds_num_questao_new{width:40px;}
+#abre-painel i{margin:20px 5px;}
+#btnSalvar{margin:10px 5px;}
+#btnCancelar{margin:10px 5px;}
+#anexos-questao{margin:10px 5px;}
+#anexos-questao-edit{margin:10px 5px;}
+#co_modalidade_concurso_new{width:115px;}
+#tx_titulo_new{width:180px;}
+#st_conteudo_questao{margin-top:0px;margin-left: 25px;}
+#relatorioQuestoes{display:none;}
+#v_relatorioQuestoes{
+	height:600px;
+	overflow: scroll;
+}
+#v_relatorioQuestoesT{
+	height:600px;
+	overflow: scroll;
+}
+#modal-imprimir{width: 90%;top:45%;left: 20%;}
+#modal-imprimirT{width: 90%;top:45%;left: 20%;}
+#modal-salvaPdf{width: 90%;top:47%;left: 20%;}
+#modal-palavra{width: 90%;top:45%;left: 20%;}
+#modal-incluir-questao{width: 90%;left: 30%;top: 40%;}
+#modal-incluir-simulado{width: 90%;left: 30%;top: 40%;}
+#modal-anexo-questao{width: 90%;left: 30%;top: 40%;}
+#modal-anexo-comment{width: 90%;left: 30%;top: 40%;}
+#modal-visual{width: 90%;left: 30%;height: 100%;top:35%;}
+#modal-upload-imagem{width: 90%;left: 30%;height: 80%;top:35%;}
+#modal-excluir-img-texto{width: 90%;left: 30%;height: 80%;top:35%;}
+#modal-excluir-img{width: 90%;left: 30%;height: 80%;top:35%;}
+#modal-duvidas{width: 90%;left: 30%;height: 80%;top:35%;}
+#v_visual_duvidas{
+	height:300px;
+	overflow: scroll;
+}
+#modal-visual-av{width: 90%;left: 30%;height: 100%;top:35%;}
+#modal-imprimir-aviso{   
+top: 50%; 
+margin-top: 50px; 
+left: 30%;
+width:70%
+}
+#v_relatorioQuestoes-aviso{
+	height:auto;
+	
+}
+#modal-visual-inscricao{   
+top: 50%; 
+margin-top: 0px; 
+left: 30%;
+width:70%
+}
+#visual-inscricao{
+	height:auto;
+	
+}
+#modal-visual-cupom{   
+width: 100%;
+    left: 30%;
+    height: 100%;
+    top: 55%;
+}
+#v_visual{
+	height:100px;
+	
+}
+#v_visual_cupom{
+	height:250px;
+	overflow: scroll;
+}
+#v_Palavra{
+	height:600px;
+	overflow: scroll;
+}
+#v-anexo-e{
+	height:500px;
+	overflow: scroll;
+}
+#v-anexo-c{
+	height:500px;
+	overflow: scroll;
+}
+#modal-texto{
+	height:100px;
+	overflow: scroll;
+}
+#modal-img{
+	height:100px;
+	overflow: scroll;
+}
+.incquest{width: 6px;margin: 5px 0px 0px 2px;}
+.boxqt{position: relative;top: -15px;width: 29px;padding: 2px;}
+.boxnqt{position: relative;top: -10px;width: 119px;padding: 5px;}
+.boxh{width: 70px;}
+.dsano{width: 70px;}
+.num{width: 45px;float: right;}
+.numqt{width: 45px;float: right;margin-top:0;}
+.nano{width: 85px;float: right;margin-top:0;}
+.numqtq{width: 45px;float: left;margin-top:0;}
+.nanoq{width: 85px;float: left;margin-top:0;}
+.titulo{width: 180px;}
+#table_editable_questao{overflow: scroll;}
+#selecionar-questoes-banco{margin:5px;}
+#incluir-novas-questoes{margin:5px;}
+#botoes{margin:10px 0 0 -12px;}
+.caixa-resposta{width: 450px;}
+.imgpeq{width: 200px;height:150px;}
+#btd{margin:0 0 0 535px;}
+#btp{margin:0 0 0 535px;}
+#btc{margin:0 0 0 501px;}
+#btt{margin:0 0 0 550px;}
+#btm{margin:0 0 0 340px;}
+.imgup img{height:100px;width:200px;}
+.subespecialidade{width:500px;}
+.numqtc{width: 65px;float: right;margin-top:0;}
+.numqta{width: 45px;float: right;}
+.curso{width: 100px;}
+.niv{width: 100px;}
+.pop{
+background-color: #333333;
+color:#ffffff;
+width:150px;
+height:50px;
+padding:5px;
+}
+.pop1{
+background: url(../img/hint.png);
+color: #FFF;
+width: 175px;
+height: 50px;
+padding: 15px;
+margin: 5px 0 0 10px;
+}
+.tm6{width:250px;}
+.tm4{width:100%;}
+.tm2{width:80%;}
+#modal-imprimir1{
+width: 95%;
+top: 0%;
+left: 23%;
+}
+#v_relatorioQuestoes1{
+	height:auto;
+	overflow-y: scroll;
+}
+
+#modal-imprimir3{width: 95%;
+top: 0%;
+left: 45%;
+height:auto;
+overflow:auto;
+}
+#v_relatorioQuestoes3{
+	
+	
+}
+.letramedia{font-size:1em;}
+.letramaior{font-size:1.2em;}
+.letramediaY{font-size:.8em; background-color: rgba(255, 232, 19, 1);color: rgb(107, 20, 79); padding:2px;}
+.letramediaB{font-size:.8em; background-color: rgba(53, 165, 248, 0.53);color: rgb(107, 20, 79); padding:2px;}
+
+#envia-colaboracao{background-color: rgba(233, 209, 167, 0.98);padding:5px;}
+#questao-prova{background-color: #ffffff;}
+#modal-ambiente-imprimir1.modal.fade.in{
+   top: 650px;
+	left:400px;
+}
+#modal-ambiente-imprimir1{
+   width: 80%;
+
+	
+}
+#v_relatorioQuestoesa1{
+	height:auto;
+	overflow-y: scroll;
+}
+#modal-excluir.modal.fade.in{
+margin-top:10px;
+
+}
+div#responsive-edital.modal.fade.in{
+
+margin-top: 256px;
+
+}
+#codigo_usuario{
+margin-top: 0px;
+margin-left: 25px;
+}
